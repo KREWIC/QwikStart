@@ -1,0 +1,16 @@
+The purpose of this program is the following
+
+- Hold me accountable for running
+- Hold me accountable for waking up on time
+- Keep a record of my runs in the mornings
+- Keep a streak for both running and wake up times
+- Make sure I have a plan for each day instead of aimlessness
+- Ensure this program syncs between computers.
+
+Those are the primary goals of this program. The stretch goals are the following
+
+- Keep an active list of projects?
+- Create a hypelist for this program?
+- Motivational phrases pulled form a large database?
+- Add goals? Create new check in times and stuff?
+- Automation commands? IE open my email, block these apps for these hours, open my project files, etc?
