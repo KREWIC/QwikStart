@@ -1,0 +1,51 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "WIP4IcfJ-_drWSQNbGPn-",
+      "type": "text",
+      "x": 277.3668551974826,
+      "y": 134.88715277777777,
+      "width": 468.0167236328125,
+      "height": 321.108279265053,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": null,
+      "seed": 1215308909,
+      "version": 1026,
+      "versionNonce": 848487875,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1790087391460,
+      "link": null,
+      "locked": false,
+      "text": "Data we are collecting\n\nFOR WAKE TIME\n- Time you logged in at (was it good or bad?)\n- Excuse if it was bad? (via bubble select)\n- New excuse if you have one (is it a valid excuse or invalid?)\n- we want to store ALL WAKE TIMES OVER TIME\n\nFOR RUN\n- How far did you run?\n- How long did it take?\n- We want to store ALL RUNS OVER TIME (distance and time)\n\nFOR TASKS\n- What are your tasks today? (Save all of these)\n- What are your completed tasks? (save these seperately)\n- ",
+      "fontSize": 15.1109778477672,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Data we are collecting\n\nFOR WAKE TIME\n- Time you logged in at (was it good or bad?)\n- Excuse if it was bad? (via bubble select)\n- New excuse if you have one (is it a valid excuse or invalid?)\n- we want to store ALL WAKE TIMES OVER TIME\n\nFOR RUN\n- How far did you run?\n- How long did it take?\n- We want to store ALL RUNS OVER TIME (distance and time)\n\nFOR TASKS\n- What are your tasks today? (Save all of these)\n- What are your completed tasks? (save these seperately)\n- ",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
