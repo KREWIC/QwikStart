@@ -14,3 +14,6 @@ Those are the primary goals of this program. The stretch goals are the following
 - Motivational phrases pulled form a large database?
 - Add goals? Create new check in times and stuff?
 - Automation commands? IE open my email, block these apps for these hours, open my project files, etc?
+- I would like to have a 'suggested list of tasks' come up. I'd like a little questionmark button that would pull up a list of things you could do if you don't know what to put.
+                IE dishes, laundry, change cat litter, check mail, etc. things where if your task list is a little empty you can fill it out a little.
+- I'd like to find a way to import this task list to other places. I'd like it if it were able to go to my phone somehow.
